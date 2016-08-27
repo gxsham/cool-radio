@@ -1,0 +1,20 @@
+﻿[ResourceMetadata]
+"ResourceDimensions"		"scale-200"
+"ResourceDimensions"		"language-en-us"
+
+[Files]
+"C:\Users\gxsham\Documents\Visual Studio 2015\Projects\CoolRadioV3\CoolRadioV3\obj\x86\Release\Upload\split.pri"			"resources.pri"
+"C:\Users\gxsham\Documents\Visual Studio 2015\Projects\CoolRadioV3\CoolRadioV3\obj\x86\Release\PackageUploadLayout\WinMetadata\Windows.winmd"			"WinMetadata\Windows.winmd"
+"C:\Users\gxsham\Documents\Visual Studio 2015\Projects\CoolRadioV3\CoolRadioV3\obj\x86\Release\PackageUploadLayout\WinMetadata\Microsoft.Advertising.winmd"			"WinMetadata\Microsoft.Advertising.winmd"
+"C:\Users\gxsham\Documents\Visual Studio 2015\Projects\CoolRadioV3\CoolRadioV3\obj\x86\Release\PackageUploadLayout\Properties\Default.rd.xml"			"Properties\Default.rd.xml"
+"C:\Users\gxsham\Documents\Visual Studio 2015\Projects\CoolRadioV3\CoolRadioV3\obj\x86\Release\PackageUploadLayout\CoolRadioV3.xr.xml"			"CoolRadioV3.xr.xml"
+"C:\Users\gxsham\Documents\Visual Studio 2015\Projects\CoolRadioV3\CoolRadioV3\obj\x86\Release\PackageUploadLayout\Assets\Wide310x150Logo.scale-200.png"			"Assets\Wide310x150Logo.scale-200.png"
+"C:\Users\gxsham\Documents\Visual Studio 2015\Projects\CoolRadioV3\CoolRadioV3\obj\x86\Release\PackageUploadLayout\Assets\WhiteCircle.png"			"Assets\WhiteCircle.png"
+"C:\Users\gxsham\Documents\Visual Studio 2015\Projects\CoolRadioV3\CoolRadioV3\obj\x86\Release\PackageUploadLayout\Assets\StoreLogo.png"			"Assets\StoreLogo.png"
+"C:\Users\gxsham\Documents\Visual Studio 2015\Projects\CoolRadioV3\CoolRadioV3\obj\x86\Release\PackageUploadLayout\Assets\Square44x44Logo.scale-200.png"			"Assets\Square44x44Logo.scale-200.png"
+"C:\Users\gxsham\Documents\Visual Studio 2015\Projects\CoolRadioV3\CoolRadioV3\obj\x86\Release\PackageUploadLayout\Assets\Square44x44Logo.targetsize-24_altform-unplated.png"			"Assets\Square44x44Logo.targetsize-24_altform-unplated.png"
+"C:\Users\gxsham\Documents\Visual Studio 2015\Projects\CoolRadioV3\CoolRadioV3\obj\x86\Release\PackageUploadLayout\Assets\Square150x150Logo.scale-200.png"			"Assets\Square150x150Logo.scale-200.png"
+"C:\Users\gxsham\Documents\Visual Studio 2015\Projects\CoolRadioV3\CoolRadioV3\obj\x86\Release\PackageUploadLayout\Assets\SplashScreen.scale-200.png"			"Assets\SplashScreen.scale-200.png"
+"C:\Users\gxsham\Documents\Visual Studio 2015\Projects\CoolRadioV3\CoolRadioV3\obj\x86\Release\PackageUploadLayout\Assets\PinkCircle.png"			"Assets\PinkCircle.png"
+"C:\Users\gxsham\Documents\Visual Studio 2015\Projects\CoolRadioV3\CoolRadioV3\obj\x86\Release\PackageUploadLayout\Assets\LockScreenLogo.scale-200.png"			"Assets\LockScreenLogo.scale-200.png"
+"C:\Users\gxsham\Documents\Visual Studio 2015\Projects\CoolRadioV3\CoolRadioV3\obj\x86\Release\PackageUploadLayout\Assets\background.jpg"			"Assets\background.jpg"
